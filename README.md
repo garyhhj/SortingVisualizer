@@ -1,4 +1,4 @@
-**#demo**
+# demo
 deployed in the following link: https://sorting-1.herokuapp.com/
 
 # Getting Started with Create React App
